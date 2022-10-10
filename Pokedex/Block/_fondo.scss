@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.boxground{
+    width: 100%;
+    background-image: url("/img/ˏˋ-keep-it-cute-ˎˊ˗-Heres-my-collection-of-pixel-.gif");
+
+}
+
+.container{
+     border: 0ch;
+}
+
+.h1Logo{
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+}
+
+.boxpika{
+    display: block;
+    align-items: center;
+}
+
+.boxinic{
+    width: 100%;
+}
+
+.pika{
+    width: 150px;
+
+}
+
+.buscador{
+     width: 200px;
+     height: 30px;
+     border-radius: 30px;
+     padding-left: 10px;
+}
+
+.btn{
+    
+    border-radius: 40px;
+    margin-left: 10px;
+    width: 35px;
+    height: 35px;
+    
+    
+}
+
+.botonimagen{
+    background-image:url(/img/POKEBALL\ \(42\).png);
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size: 50px;
+    
+  }
+
+.logoPok{
+    width: 450px;
+
+}
+

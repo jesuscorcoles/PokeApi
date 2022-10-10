@@ -1,0 +1,93 @@
+.ole{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.target{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-image: url("/img/giphy-downsized-large.gif");
+    background-position: center;
+    width: 200px;
+    height: 300px;
+    margin: 30px;
+    border-radius: 10px;
+    border: inset  #d2ad4f 5px;
+
+    
+}
+
+.fond-Poke{
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.ima-fondo{
+    align-items: center;
+    background-image: url("/img/maxresdefault.jpeg");
+    background-repeat: no-repeat;
+    background-size: 150%;
+    margin-top: 20px;
+    width: 80%;
+    height: 130px;
+    border-radius: 10px;
+    border: inset  #d2ad4f 5px;
+
+
+ }
+
+ .ima{  
+    width: 70%;
+    margin-top: 15px;
+    margin-left: 22px;
+
+}
+
+.Depixel {
+    font-family: Depixel;
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.number{
+    display: flex;
+    justify-content: center;
+    font-family: Depixel;
+    font-size: 10px;
+    background-color: rgb(226, 226, 226);
+    border-radius: 20px;
+    width: 30px;
+    height: 10px;
+    margin-left: 5px;
+
+}
+
+
+.fondodatos{
+    display: inline-block;
+    justify-content: center;
+    background-color: beige;
+    border-radius: 10px ;
+    width: 100%;
+    height: 90px;
+    margin: 15px;
+    border: inset  #d2ad4f 5px;
+    padding: 10px;
+    
+}
+
+.symbol{
+    background-image:url("/img/medallas.png");
+    background-repeat:no-repeat;
+    background-size: 100px;
+    width: 100px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border: solid none;
+
+    
+  }
